@@ -1,0 +1,10 @@
+{
+  // このファイルは、VSCodeで推奨される拡張機能を定義します。
+  "recommendations": [
+    // SQLTools拡張機能: VSCode内でSQLデータベースを管理するための基本的な機能を提供します。
+    "mtxr.sqltools",
+
+    // SQLToolsのMySQLドライバ: SQLToolsがMySQL、MariaDB、TiDBデータベースに接続するために必要なドライバを提供します。
+    "mtxr.sqltools-driver-mysql"
+  ]
+}
